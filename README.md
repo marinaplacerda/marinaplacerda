@@ -6,7 +6,9 @@ Atualmente, estou em transição ativa para ADS, onde busco aplicar e aprimorar 
 no desenvolvimento. Minha maior motivação é **traduzir desafios complexos em soluções tecnológicas inovadoras**, focando sempre na otimização de processos 
 e na geração de impacto positivo.
 
-### 🎓 Formação Acadêmica
+---
+
+#### 🎓 Formação Acadêmica
 
 * **Graduação em Arquitetura e Urbanismo** • Centro Universitário Maurício de Nassau • Recife/PE • *Concluído em 2018*.
 * **Graduação Tecnologa em Análise e desenvolvimento de sistemas** • Centro Universitário Maurício de Nassau • Recife/PE • *Tranferido para FATEC CAMPINAS, em 2024*.
@@ -14,16 +16,16 @@ e na geração de impacto positivo.
 
 ---
 
-### 💡 Soft Skills
+#### 💡 Soft Skills
 
 **Resolução de Problemas, Visão Sistêmica, Aprendizado Rápido, Trabalho em Equipe, Proatividade, Comunicação, Gestão, Adaptabilidade, Planejamento, 
 Criatividade, Flexibilidade, Empatia, Organização** e **Liderança**.
 
 ---
 
-### 🚀 Hard Skills
+#### 🚀 Hard Skills
 
-#### 💻 Linguagens de Programação e Script
+##### 💻 Linguagens de Programação e Script
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
@@ -35,7 +37,7 @@ Criatividade, Flexibilidade, Empatia, Organização** e **Liderança**.
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-#### 📚 Frameworks e Runtimes
+##### 📚 Frameworks e Runtimes
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
@@ -43,13 +45,13 @@ Criatividade, Flexibilidade, Empatia, Organização** e **Liderança**.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.net&logoColor=512BD4)
 
-#### 💾 Banco de Dados
+##### 💾 Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-000?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF)
 
-#### ⚙️ Ferramentas, Design e Produtividade
+##### ⚙️ Ferramentas, Design e Produtividade
 
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
