@@ -1,16 +1,18 @@
 # Marina Pires
 
-Sou arquiteta e urbanista em transição para a área de tecnologia, motivada pelo desejo de enfrentar desafios complexos e
-encontrar soluções inovadoras. Quero explorar o potencial da tecnologia para promover mudanças positivas na sociedade. Vejo
-cada desafio como uma oportunidade de aprender, inovar e contribuir significativamente para projetos de impacto real.
+Sou arquiteta urbanista em transição de carreira para Análise e Desenvolvimento de Sistemas. Tenho 5 anos de experiência em planejamento e projeto, aplicando 
+visão sistêmica, design thinking e gestão de projetos em larga escala. Em transição ativa para ADS, busco aplicar e aprimorar meu pensamento analítico e minhas 
+competências em solução de problemas na área de desenvolvimento. Minha maior motivação é traduzir desafios complexos em soluções tecnológicas inovadoras, focando 
+em otimização de processos e impacto positivo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=linkedln)](https://www.linkedin.com/in/marinapiressg/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marinapiress)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marinapiressg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=linkedln)](https://www.linkedin.com/in/marinaplacerda/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marinaplacerda)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marinapireslacerda@gmail.com)
 
 ### Soft Skills
 
-Comunicação, Planejamento, Adaptabilidade, Criatividade, Trabalho em equipe, Liderança, Gestão, Flexibilidade, Empatia, Organização e Proatividade.
+Resolução de Problemas, Aprendizado Rápido, Trabalho em Equipe, Proatividade, Comunicação, Atendimento ao Cliente, Gestão, Adaptabilidade, Planejamento, 
+Criatividade, Flexibilidade, Empatia, Organização, Liderança.
 
 ### Hard Skills
 
@@ -22,10 +24,14 @@ Comunicação, Planejamento, Adaptabilidade, Criatividade, Trabalho em equipe, L
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=javascrpt)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=typescript)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=react)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-000?style=for-the-badge&logo=bootstrap&logoColor=bootstrap)
 ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.net&logoColor=.net)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
