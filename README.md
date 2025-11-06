@@ -1,4 +1,4 @@
-## 👋 Olá, sou Marina Lacerda!
+### 👋 Olá, sou Marina Lacerda!
 
 Sou **Arquiteta Urbanista em transição de carreira para Análise e Desenvolvimento de Sistemas (ADS)**. Possuo **5 anos de experiência** em planejamento 
 e projeto, período no qual desenvolvi forte **visão sistêmica**, expertise em **Design Thinking** e habilidades em gestão de projetos de larga escala. 
